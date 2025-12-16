@@ -16,7 +16,7 @@ function TodoList() {
         <li>Rehearse a movie scene</li>
         <li>Improve the spectrum technology</li>
       </ul>
-      <button onClick={callme}>Click Me</button>
+      
     </>
   );
 }
